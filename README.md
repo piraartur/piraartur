@@ -1,5 +1,5 @@
 ### Hi there 👋
-![[@piraartur9's Holopin board](https://holopin.me/piraartur9)](https://holopin.io/@piraartur9)
+[![@piraartur9's Holopin board](https://holopin.me/piraartur9)](https://holopin.io/@piraartur9)
 ![Codewars](https://www.codewars.com/users/apir/badges/large)
 ![visitors](https://page-views.glitch.me/badge?page_id=piraartur)
 - 🫡 I’m currently focused on getting CKA and GCP certificates
